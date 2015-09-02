@@ -18,6 +18,8 @@ If you have questions concerning this license or the applicable additional terms
 ===========================================================================
 */
 
+
+//made for older versions (2010) of GO, run on Ubuntu x64
 package main
 import (
     "fmt"
